@@ -7,6 +7,7 @@ The Interactive Curve Fitting Application is a Python-based tool developed using
 Data Input Options:
 
 • Manual data entry via a clean, interactive interface.
+
 • CSV file upload for bulk data processing.
 
 Supported Curve Fitting Models:
