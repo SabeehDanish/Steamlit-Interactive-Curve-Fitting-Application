@@ -12,9 +12,13 @@ Data Input Options:
 Supported Curve Fitting Models:
 
 • Linear Regression: Fits data to a straight-line model.
+
 • Polynomial Fit: Allows users to specify the degree of the polynomial.
+
 • Exponential Fit: Models exponential growth or decay trends.
+
 • Logarithmic Fit: Fits data to a logarithmic curve.
+
 • Power Law Fit: Captures power-law relationships in data.
 
 Statistical Metrics:
