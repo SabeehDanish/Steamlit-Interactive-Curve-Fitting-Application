@@ -51,27 +51,27 @@ To run the application, users need the following:
 
 # Future Enhancements
 
-Additional Models: Integration of spline fitting and machine learning-based regression models.
+• Additional Models: Integration of spline fitting and machine learning-based regression models.
 
-Advanced Visualization: 3D plotting capabilities for multidimensional data.
+• Advanced Visualization: 3D plotting capabilities for multidimensional data.
 
-Expanded Input Options: Support for Excel files and database connections.
+• Expanded Input Options: Support for Excel files and database connections.
 
-Batch Processing: Capability to fit multiple datasets simultaneously.
+• Batch Processing: Capability to fit multiple datasets simultaneously.
 
-Model Comparison: Side-by-side comparison of different fitting models on the same dataset.
+• Model Comparison: Side-by-side comparison of different fitting models on the same dataset.
 
-Export Functionality: Allow users to save fitted models, visualizations, and statistical reports as PDFs or Excel files.
+• Export Functionality: Allow users to save fitted models, visualizations, and statistical reports as PDFs or Excel files.
 
 # Known Limitations
 
-Limited Dataset Size: Performance may degrade for very large datasets due to Streamlit's lightweight nature.
+• Limited Dataset Size: Performance may degrade for very large datasets due to Streamlit's lightweight nature.
 
-Model Constraints: The current models may not perform well on highly complex or noisy datasets.
+• Model Constraints: The current models may not perform well on highly complex or noisy datasets.
 
-Input Validation: Only supports numeric datasets; non-numeric inputs or improperly formatted CSV files require user correction.
+• Input Validation: Only supports numeric datasets; non-numeric inputs or improperly formatted CSV files require user correction.
 
-Visualization Customization: Limited options for advanced styling of plots.
+• Visualization Customization: Limited options for advanced styling of plots.
 
 No Real-Time Collaboration: Single-user interface without shared editing capabilities.
 
