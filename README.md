@@ -26,15 +26,18 @@ Statistical Metrics:
 
 • Real-time plotting of the data points and fitted curves using Matplotlib.
 • Responsive visual updates as users modify model parameters or input data.
+
 Formula Display:
 
-Outputs the mathematical equation of the fitted curve for user reference.
-Error Handling:
+• Outputs the mathematical equation of the fitted curve for user reference.
 
-Robust input validation ensures only numeric data is processed.
-Error messages guide users in resolving input issues.
+Error Handling: 
+
+• Robust input validation ensures only numeric data is processed.
+• Error messages guide users in resolving input issues.
 
 # Prerequisites
+
 To run the application, users need the following:
 
 • Python 3.7 or later
@@ -47,45 +50,30 @@ To run the application, users need the following:
 • Basic understanding of mathematical modeling and curve fitting concepts.
 
 # Future Enhancements
-Additional Models:
 
-Integration of spline fitting and machine learning-based regression models.
+Additional Models: Integration of spline fitting and machine learning-based regression models.
 
-Advanced Visualization:
+Advanced Visualization: 3D plotting capabilities for multidimensional data.
 
-3D plotting capabilities for multidimensional data.
+Expanded Input Options: Support for Excel files and database connections.
 
-Expanded Input Options:
+Batch Processing: Capability to fit multiple datasets simultaneously.
 
-Support for Excel files and database connections.
+Model Comparison: Side-by-side comparison of different fitting models on the same dataset.
 
-Batch Processing:
+Export Functionality: Allow users to save fitted models, visualizations, and statistical reports as PDFs or Excel files.
 
-Capability to fit multiple datasets simultaneously.
+# Known Limitations
 
-Model Comparison:
+Limited Dataset Size: Performance may degrade for very large datasets due to Streamlit's lightweight nature.
 
-Side-by-side comparison of different fitting models on the same dataset.
+Model Constraints: The current models may not perform well on highly complex or noisy datasets.
 
-Export Functionality:
+Input Validation: Only supports numeric datasets; non-numeric inputs or improperly formatted CSV files require user correction.
 
-Allow users to save fitted models, visualizations, and statistical reports as PDFs or Excel files.
-Known Limitations
-Limited Dataset Size:
+Visualization Customization: Limited options for advanced styling of plots.
 
-Performance may degrade for very large datasets due to Streamlit's lightweight nature.
-Model Constraints:
-
-The current models may not perform well on highly complex or noisy datasets.
-Input Validation:
-
-Only supports numeric datasets; non-numeric inputs or improperly formatted CSV files require user correction.
-Visualization Customization:
-
-Limited options for advanced styling of plots.
-No Real-Time Collaboration:
-
-Single-user interface without shared editing capabilities.
+No Real-Time Collaboration: Single-user interface without shared editing capabilities.
 
 # Conclusion
 The Interactive Curve Fitting Application is a versatile and accessible tool for data analysis, offering essential curve-fitting models, statistical evaluations, and dynamic visualizations. Its ease of use makes it suitable for various levels of expertise, while its robust architecture supports further enhancements. Despite its limitations, the application provides a strong foundation for analyzing and interpreting datasets effectively.
