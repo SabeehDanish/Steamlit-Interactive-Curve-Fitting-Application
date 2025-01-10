@@ -3,7 +3,7 @@
 Interactive Curve Fitting Application
 The Interactive Curve Fitting Application is a Python-based tool developed using the Streamlit framework. It allows users to explore and analyze datasets by fitting them to various mathematical models and evaluating their accuracy using statistical metrics. The application is user-friendly, making it ideal for students, researchers, and professionals working with data analysis and predictive modeling.
 
-Key Features
+# Key Features
 Data Input Options:
 
 Manual data entry via a clean, interactive interface.
@@ -31,7 +31,8 @@ Error Handling:
 
 Robust input validation ensures only numeric data is processed.
 Error messages guide users in resolving input issues.
-Prerequisites
+
+# Prerequisites
 To run the application, users need the following:
 
 Python 3.7 or later
@@ -42,7 +43,8 @@ pandas
 matplotlib
 scipy
 Basic understanding of mathematical modeling and curve fitting concepts.
-Future Enhancements
+
+# Future Enhancements
 Additional Models:
 
 Integration of spline fitting and machine learning-based regression models.
