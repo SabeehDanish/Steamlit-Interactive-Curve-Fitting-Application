@@ -24,11 +24,15 @@ Supported Curve Fitting Models:
 Statistical Metrics:
 
 • R² (Coefficient of Determination): Indicates the goodness of fit.
+
 • MAE (Mean Absolute Error): Measures the average absolute difference between predictions and actual data.
+
 • RMSE (Root Mean Square Error): Evaluates the magnitude of prediction errors.
+
 • Dynamic Visualizations:
 
 • Real-time plotting of the data points and fitted curves using Matplotlib.
+
 • Responsive visual updates as users modify model parameters or input data.
 
 Formula Display:
@@ -38,6 +42,7 @@ Formula Display:
 Error Handling: 
 
 • Robust input validation ensures only numeric data is processed.
+
 • Error messages guide users in resolving input issues.
 
 # Prerequisites
@@ -45,12 +50,19 @@ Error Handling:
 To run the application, users need the following:
 
 • Python 3.7 or later
+
 • Required Python libraries:
+
 • streamlit
+
 • numpy
+
 • pandas
+
 • matplotlib
+
 • scipy
+
 • Basic understanding of mathematical modeling and curve fitting concepts.
 
 # Future Enhancements
