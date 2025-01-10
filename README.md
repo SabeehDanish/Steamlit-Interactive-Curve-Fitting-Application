@@ -1,6 +1,5 @@
 # Steamlit-Interactive-Curve-Fitting-Application
 
-Interactive Curve Fitting Application
 The Interactive Curve Fitting Application is a Python-based tool developed using the Streamlit framework. It allows users to explore and analyze datasets by fitting them to various mathematical models and evaluating their accuracy using statistical metrics. The application is user-friendly, making it ideal for students, researchers, and professionals working with data analysis and predictive modeling.
 
 # Key Features
