@@ -93,3 +93,5 @@ To run the application, users need the following:
 
 # Conclusion
 The Interactive Curve Fitting Application is a versatile and accessible tool for data analysis, offering essential curve-fitting models, statistical evaluations, and dynamic visualizations. Its ease of use makes it suitable for various levels of expertise, while its robust architecture supports further enhancements. Despite its limitations, the application provides a strong foundation for analyzing and interpreting datasets effectively.
+
+*Application was created on 2024-12-02
