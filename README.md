@@ -6,24 +6,26 @@ The Interactive Curve Fitting Application is a Python-based tool developed using
 # Key Features
 Data Input Options:
 
-Manual data entry via a clean, interactive interface.
-CSV file upload for bulk data processing.
+• Manual data entry via a clean, interactive interface.
+• CSV file upload for bulk data processing.
+
 Supported Curve Fitting Models:
 
-Linear Regression: Fits data to a straight-line model.
-Polynomial Fit: Allows users to specify the degree of the polynomial.
-Exponential Fit: Models exponential growth or decay trends.
-Logarithmic Fit: Fits data to a logarithmic curve.
-Power Law Fit: Captures power-law relationships in data.
+• Linear Regression: Fits data to a straight-line model.
+• Polynomial Fit: Allows users to specify the degree of the polynomial.
+• Exponential Fit: Models exponential growth or decay trends.
+• Logarithmic Fit: Fits data to a logarithmic curve.
+• Power Law Fit: Captures power-law relationships in data.
+
 Statistical Metrics:
 
-R² (Coefficient of Determination): Indicates the goodness of fit.
-MAE (Mean Absolute Error): Measures the average absolute difference between predictions and actual data.
-RMSE (Root Mean Square Error): Evaluates the magnitude of prediction errors.
-Dynamic Visualizations:
+• R² (Coefficient of Determination): Indicates the goodness of fit.
+• MAE (Mean Absolute Error): Measures the average absolute difference between predictions and actual data.
+• RMSE (Root Mean Square Error): Evaluates the magnitude of prediction errors.
+• Dynamic Visualizations:
 
-Real-time plotting of the data points and fitted curves using Matplotlib.
-Responsive visual updates as users modify model parameters or input data.
+• Real-time plotting of the data points and fitted curves using Matplotlib.
+• Responsive visual updates as users modify model parameters or input data.
 Formula Display:
 
 Outputs the mathematical equation of the fitted curve for user reference.
@@ -35,31 +37,36 @@ Error messages guide users in resolving input issues.
 # Prerequisites
 To run the application, users need the following:
 
-Python 3.7 or later
-Required Python libraries:
-streamlit
-numpy
-pandas
-matplotlib
-scipy
-Basic understanding of mathematical modeling and curve fitting concepts.
+• Python 3.7 or later
+• Required Python libraries:
+• streamlit
+• numpy
+• pandas
+• matplotlib
+• scipy
+• Basic understanding of mathematical modeling and curve fitting concepts.
 
 # Future Enhancements
 Additional Models:
 
 Integration of spline fitting and machine learning-based regression models.
+
 Advanced Visualization:
 
 3D plotting capabilities for multidimensional data.
+
 Expanded Input Options:
 
 Support for Excel files and database connections.
+
 Batch Processing:
 
 Capability to fit multiple datasets simultaneously.
+
 Model Comparison:
 
 Side-by-side comparison of different fitting models on the same dataset.
+
 Export Functionality:
 
 Allow users to save fitted models, visualizations, and statistical reports as PDFs or Excel files.
